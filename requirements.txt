@@ -34,8 +34,8 @@ narwhals==2.13.0
 networkx==3.4.2
 numpy==1.26.4
 onnxruntime==1.23.2
-opencv-contrib-python==4.9.0.80
-opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+opencv-contrib-python-headless==4.9.0.80
 opt_einsum==3.4.0
 packaging==25.0
 pandas==2.3.3
